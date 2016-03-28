@@ -1,0 +1,11 @@
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Release\DotNet.Highcharts.XML
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Release\DotNet.Highcharts.dll
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Release\DotNet.Highcharts.pdb
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Release\DotNet.Highcharts.csprojResolveAssemblyReference.cache
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Release\DotNet.Highcharts.dll
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Release\DotNet.Highcharts.pdb
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Release\DotNet.Highcharts.XML
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Release\DotNet.Highcharts.dll
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Release\DotNet.Highcharts.pdb
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Release\DotNet.Highcharts.dll
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Release\DotNet.Highcharts.pdb

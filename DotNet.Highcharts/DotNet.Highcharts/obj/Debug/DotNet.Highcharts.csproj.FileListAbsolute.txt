@@ -1,0 +1,15 @@
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Debug\DotNet.Highcharts.dll
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Debug\DotNet.Highcharts.pdb
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.csprojResolveAssemblyReference.cache
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.dll
+C:\_software\VisualStudio\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.pdb
+C:\PROJECTS\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Debug\DotNet.Highcharts.dll
+C:\PROJECTS\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Debug\DotNet.Highcharts.pdb
+C:\PROJECTS\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.csprojResolveAssemblyReference.cache
+C:\PROJECTS\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.dll
+C:\PROJECTS\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.pdb
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Debug\DotNet.Highcharts.dll
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\bin\Debug\DotNet.Highcharts.pdb
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.csprojResolveAssemblyReference.cache
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.dll
+C:\__software\HighCharts\dotnethighcharts-28017\DotNet.Highcharts\DotNet.Highcharts\obj\Debug\DotNet.Highcharts.pdb
